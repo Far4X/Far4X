@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Far4X
-- 👀 I’m interested in application developpement
-- 🌱 I’m currently learning C++ (I almost finished it)
-- 💞️ I’m looking to collaborate on I don't know what
-- 📫 How to reach me : Discord : Farax#7544
+- 👀 I’m interested in application developpement / gamedev, but with writing code.
+- 🌱 I’m currently learning C++ (I am able to code with it), C# with .net (If you have a good free formation, tell me please !), and wab programming (a bit)
+- 💞️ I’m looking to collaborate on my projects, or others, just ask me if you want to collaborate with me. I am able to be on a Python or a C++ project
+- 📫 How to reach me : Discord : Farax#7544, is the easiest way to reach me
 
 <!---
 Far4X/Far4X is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
