@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Far4X
 - 👀 I’m interested in application developpement / gamedev, but with writing code.
-- 🌱 I’m currently learning C++ (I am able to code with it), C# with .net (If you have a good free formation, tell me please !) / Java (It's juste the same :P), and web programming (a bit)
 - 💞️ I’m looking to collaborate on my projects, or others, just ask me if you want to collaborate with me. I am able to be on a Python or a C++ project
 - 📫 How to reach me : Discord : Farax#7544, is the easiest way to reach me
 
